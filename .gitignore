@@ -1,0 +1,15 @@
+# Local tools and intermediate research files
+work/
+paper_*.txt
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.codex/
+
+# Temporary files
+*.tmp
+~$*
+Thumbs.db
+.DS_Store
